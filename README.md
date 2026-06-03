@@ -1,10 +1,6 @@
 # Workforce Burnout Prediction, Sick-Day Forecasting & HR Intervention Recommendation System
 
-**Group 5** — Faith Ngendo · Alan Muchiri · William Nyawir · Sarah Owendi · Anthony Njeru
-
----
-
-## Overview
+## Project Overview
 
 This project builds an end-to-end machine learning HR analytics system that proactively identifies employee burnout risk, forecasts absenteeism, and recommends personalised HR interventions — all from a single employee dataset.
 
