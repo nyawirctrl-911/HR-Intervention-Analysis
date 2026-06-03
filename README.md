@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Workforce Burnout Prediction, Sick-Day Forecasting & HR Intervention Recommendation System
 
 ## Project Overview
@@ -138,3 +139,6 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 - Deploy as a **Streamlit dashboard** for live upload-and-predict HR use
 - Retrain models quarterly as new employee data is collected
 - Validate the burnout scoring logic with HR domain experts and real performance reviews
+=======
+# HR-Intervention-Analysis
+>>>>>>> 4187c8e7e6a945a398e93c2ad199fa0542f03a40
